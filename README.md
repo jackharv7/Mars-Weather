@@ -11,4 +11,4 @@ All of the Data was scraped from these sourcers. And the Webpage will update thr
 
 # Output
 
-![](Screenshots/Screen Shot 2020-02-26 at 6.08.19 PM.png)
+![](Screenshots/Screen%20Shot%202020-02-26%20at%206.08.19%20PM.png)
