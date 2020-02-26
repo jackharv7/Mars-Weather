@@ -3,10 +3,10 @@ This application extracts information on Mars from NASA's and through Mars Weath
 
 ## Sources 
 All of the Data was scraped from these sourcers. And the Webpage will update through the user and posted directly to the page.
-* https://mars.nasa.gov/news/
-* https://www.jpl.nasa.gov
-* https://space-facts.com/mars/
-* https://astrogeology.usgs.gov
+* [NASA](https://mars.nasa.gov/news/)
+* [Space Images](https://www.jpl.nasa.gov)
+* [Space Facts](https://space-facts.com/mars/)
+* [Astrogeology](https://astrogeology.usgs.gov)
 * Twitter (Tweepy)
 
 # Output
