@@ -7,7 +7,7 @@ All of the Data was scraped from these sourcers. And the Webpage will update thr
 * [Space Images](https://www.jpl.nasa.gov)
 * [Space Facts](https://space-facts.com/mars/)
 * [Astrogeology](https://astrogeology.usgs.gov)
-* [Twitter (Tweepy)](www.twitter.com)
+* [Twitter (Tweepy)](https://twitter.com)
 
 # Output
 
