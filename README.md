@@ -8,8 +8,5 @@ All of the Data was scraped from these sourcers. And the Webpage will update thr
 * [Space Facts](https://space-facts.com/mars/)
 * [Astrogeology](https://astrogeology.usgs.gov)
 * [Twitter (Tweepy)](https://twitter.com/MarsWxReport)
-
-# Output
-
 ![](Screenshots/Screen%20Shot%202020-02-26%20at%206.08.19%20PM.png)
 ![](Screenshots/Screen%20Shot%202020-02-26%20at%206.09.27%20PM.png)
