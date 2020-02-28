@@ -1,6 +1,6 @@
 # Mars Weather Update
 This application extracts information on Mars from NASA's and through Mars Weather's twitter page to provide current updates as to the current state of Mars.
-
+** Python and HTML
 ## Libraries
  * from Splinter import Browser
  * from bs4 import BeautifulSoup
