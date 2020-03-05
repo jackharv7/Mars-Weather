@@ -34,10 +34,6 @@ def scrape():
     featured_image = soup.find('article', class_="carousel_item").find('a')['data-fancybox-href']
     featured_image_url = url2 + featured_image
 
-    frost_image = soup.find('img', {"title": "Streamers of Frost"})['src']
-
-    frost_image = url2 + frost_image
-
     auth = tweepy.OAuthHandler(config.consumer_key, config.consumer_secret)
     auth.set_access_token(config.access_token, config.access_token_secret)
 
@@ -99,7 +95,6 @@ def scrape():
         'date': date,
         'summary': summary, 
         'image_url': featured_image_url,
-        'frosty': frost_image,
         'weather': mars_weather,
         'tweet': tweet_date,
         'url': tweet_url,
